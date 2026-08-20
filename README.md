@@ -1,271 +1,135 @@
-<!--
-╔══════════════════════════════════════════════════════════════╗
-║              SHIVALEELA'S LITTLE DIGITAL WORLD              ║
-╚══════════════════════════════════════════════════════════════╝
--->
+<!-- 🌙 SHIVALEELA'S LITTLE CORNER OF THE INTERNET -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:100B20,50:34205E,100:8E3F83&text=SHIVALEELA&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=COMPUTER%20SCIENCE%20%E2%80%A2%20AI%20%E2%80%A2%20ML&descAlignY=68&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:120C24,45:38265F,75:7B3F78,100:E88AB5&text=SHIVALEELA&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=computer%20science%20student%20%20%E2%80%A2%20%20AI%20%20%E2%80%A2%20%20ML&descAlignY=66&descSize=18" />
 </p>
 
 <p align="center">
-  🎓 Computer Science Student &nbsp; • &nbsp; 🤖 AI/ML Explorer &nbsp; • &nbsp; 🌱 Learning
+  <img src="./assets/anime-girl.gif" width="180" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivaleela-a-ballary&label=PROFILE%20VIEWS&color=8E3F83&style=flat-square" />
+  <i>🌙 welcome to my little corner of GitHub ♡</i>
 </p>
 
 ---
 
-<table align="center">
-<tr>
-<td width="55%" valign="top">
+## 🪻 Hi, I'm Shivaleela
 
-## 🌙 Welcome!
+I'm a **Computer Science Engineering student** exploring **AI, Machine Learning, DSA and software development**.
 
-Hi, I'm **Shivaleela** 👋
-
-I'm a Computer Science student exploring the world of **AI, Machine Learning and software development**.
-
-I'm still learning — which means this little corner of GitHub is basically my **digital playground**.
-
-I learn something.
-
-I break something.
-
-I build something.
-
-Then I do it all over again. ♡
-
-</td>
-
-<td width="45%" align="center">
-
-<img src="./assets/anime-girl.gif" width="180">
-
-<br>
-
-`♡ currently wandering through code ♡`
-
-</td>
-</tr>
-</table>
-
----
-
-# 🕹️ PLAYER PROFILE
-
-```text
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│   PLAYER        Shivaleela                           │
-│   CLASS         Computer Science Student             │
-│   LEVEL         Learning...                          │
-│                                                      │
-│   ❤️ CURIOSITY   ████████████████████░░              │
-│   🧠 DSA         ████████████░░░░░░░░░              │
-│   🤖 AI          ██████████░░░░░░░░░░░              │
-│   🐍 PYTHON      █████████████░░░░░░░              │
-│                                                      │
-│   STATUS        ONLINE • LEARNING                    │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-```
+Still learning. Still curious. Still figuring things out. 🌱
 
 ---
 
 <p align="center">
-  <img src="./assets/anime-girl.gif" width="130">
+  <img src="./assets/anime-girl.gif" width="120" />
 </p>
 
 ---
 
-# 🗺️ CURRENT MAP
+## 💻 My Skills
 
-<table align="center">
-<tr>
-
-<td align="center" width="25%">
-🌱<br><br>
-<b>LEARN</b><br>
-<sub>DSA • Python</sub>
-</td>
-
-<td align="center" width="25%">
-🧠<br><br>
-<b>EXPLORE</b><br>
-<sub>AI • ML • NLP</sub>
-</td>
-
-<td align="center" width="25%">
-🛠️<br><br>
-<b>BUILD</b><br>
-<sub>Projects • APIs</sub>
-</td>
-
-<td align="center" width="25%">
-🚀<br><br>
-<b>GROW</b><br>
-<sub>Hackathons • Open Source</sub>
-</td>
-
-</tr>
-</table>
-
----
-
-# 🤖 AI ROOM
-
-```text
-        ╭──────────────────────────────────╮
-        │          AI / ML LAB              │
-        │                                  │
-        │   🧠 Machine Learning             │
-        │   ✨ Generative AI                │
-        │   💬 NLP                          │
-        │   👁️ Computer Vision              │
-        │   🔮 LLM Applications             │
-        │                                  │
-        ╰──────────────────────────────────╯
-```
-
-### Things I'm curious about
-
-`Machine Learning` · `NLP` · `Computer Vision` · `Generative AI` · `LLMs`
-
----
-
-# 💻 THE DESK
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" />
 </p>
 
-### Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask,nodejs,express,react,vite,streamlit" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,nodejs,express,react,vite,streamlit" />
 </p>
 
-### Data & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,postman" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,postman" />
 </p>
 
-`Pandas` · `NumPy` · `PySpark` · `Hadoop`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+<p align="center">
+  <sub>Python · C++ · Java · JavaScript · AI/ML · Web · Data</sub>
+</p>
 
 ---
 
 <p align="center">
-  <img src="./assets/anime-girl.gif" width="120">
-  <br>
-  <sub>she found another bug...</sub>
+  <img src="./assets/anime-girl.gif" width="135" />
 </p>
 
 ---
 
-# 📊 SAVE FILE
+## 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivaleela-a-ballary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0B16&title_color=E879F9&icon_color=A78BFA&text_color=E5E7EB&rank_icon=github" height="170"/>
+
+🌱 **Data Structures & Algorithms**
+
+  →  
+
+🤖 **Machine Learning**
+
+  →  
+
+🧠 **Deep Learning**
+
+  →  
+
+✨ **Generative AI**
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaleela-a-ballary&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0B16&title_color=E879F9&text_color=E5E7EB" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shivaleela-a-ballary&theme=tokyonight&hide_border=true&background=0D0B16&ring=E879F9&fire=A78BFA&currStreakLabel=E879F9" />
-</p>
-
----
-
-# 🌱 NEXT LEVEL
-
-```text
-                 ┌─────────────────┐
-                 │    CURRENTLY    │
-                 │    LEARNING     │
-                 └────────┬────────┘
-                          │
-                          ▼
-                    🧩 DSA
-                          │
-                          ▼
-                    🐍 PYTHON
-                          │
-                          ▼
-                    🧠 ML / AI
-                          │
-                          ▼
-                    ✨ LLMs
-                          │
-                          ▼
-                    🚀 ??? 
-```
-
-I don't know exactly where the path ends.
-
-That's kind of the point.
-
----
-
-# 💭 TERMINAL
-
-```python
-class Shivaleela:
-
-    role = "Computer Science Student"
-
-    interests = [
-        "AI",
-        "Machine Learning",
-        "DSA",
-        "Software Development"
-    ]
-
-    current_mode = "Learning"
-
-    def keep_going(self):
-        return "One step at a time ♡"
-```
-
----
-
-<p align="center">
-  <img src="./assets/anime-girl.gif" width="150">
-</p>
-
-<p align="center">
-  <b>🌸 Keep going. Something good is loading...</b>
+  <i>one concept at a time...</i>
 </p>
 
 ---
 
-# 🔗 FIND ME
+## 📊 A Little GitHub Snapshot
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivaleela-a-ballary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=120C24&title_color=E88AB5&icon_color=A78BFA&text_color=E8E6F0&rank_icon=github" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shivaleela-a-ballary&theme=tokyonight&hide_border=true&background=120C24&ring=E88AB5&fire=A78BFA&currStreakLabel=E88AB5" height="165" />
+</p>
+
+---
+
+<p align="center">
+  <img src="./assets/anime-girl.gif" width="145" />
+</p>
+
+---
+
+## 💌 Find Me
 
 <p align="center">
 
 <a href="https://github.com/shivaleela-a-ballary">
-<img src="https://img.shields.io/badge/GITHUB-17121F?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-120C24?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-6D4AFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-7B3F78?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </p>
 
-<br>
+---
 
 <p align="center">
-  <i>♡ still exploring ♡</i>
+  <img src="./assets/anime-girl.gif" width="115" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:8E3F83,50:34205E,100:100B20" />
+  <b>🌸 learning today · building tomorrow 🌸</b>
+</p>
+
+<p align="center">
+  <sub>♡ thanks for stopping by ♡</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:E88AB5,50:7B3F78,100:120C24" />
 </p>
