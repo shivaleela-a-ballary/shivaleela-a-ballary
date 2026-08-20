@@ -1,76 +1,142 @@
+<!--
+╔══════════════════════════════════════════════════════════════╗
+║              SHIVALEELA'S LITTLE DIGITAL WORLD              ║
+╚══════════════════════════════════════════════════════════════╝
+-->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:17102B,50:5B3FA3,100:E85AAD&text=SHIVALEELA&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=learning%20%E2%80%A2%20building%20%E2%80%A2%20dreaming&descAlignY=68&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:100B20,50:34205E,100:8E3F83&text=SHIVALEELA&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=COMPUTER%20SCIENCE%20%E2%80%A2%20AI%20%E2%80%A2%20ML&descAlignY=68&descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivaleela-a-ballary&label=visitors&color=E85AAD&style=flat-square" />
-</p>
-
-<br>
-
-<h2 align="center">🌙 Hey, I'm Shivaleela!</h2>
-
-<p align="center">
-  <b>Computer Science Student</b> · <b>AI & ML Explorer</b> · <b>Curious Human</b>
+  🎓 Computer Science Student &nbsp; • &nbsp; 🤖 AI/ML Explorer &nbsp; • &nbsp; 🌱 Learning
 </p>
 
 <p align="center">
-  <i>Somewhere between "how does this work?" and "let me build it."</i>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="./assets/anime-girl.gif" width="150">
+  <img src="https://komarev.com/ghpvc/?username=shivaleela-a-ballary&label=PROFILE%20VIEWS&color=8E3F83&style=flat-square" />
 </p>
 
 ---
 
-## 🌸 A little about me
+<table align="center">
+<tr>
+<td width="55%" valign="top">
 
-I'm a Computer Science Engineering student who enjoys discovering how things work and turning that curiosity into projects.
+## 🌙 Welcome!
 
-Right now, most of my curiosity lives around **Artificial Intelligence, Machine Learning, DSA and software development**.
+Hi, I'm **Shivaleela** 👋
 
-I'm not an expert. I'm not trying to pretend to be one either.
+I'm a Computer Science student exploring the world of **AI, Machine Learning and software development**.
 
-I'm simply **learning → experimenting → breaking things → understanding → trying again.**
+I'm still learning — which means this little corner of GitHub is basically my **digital playground**.
 
-> **The goal isn't to know everything.
-> The goal is to keep becoming better.**
+I learn something.
+
+I break something.
+
+I build something.
+
+Then I do it all over again. ♡
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="./assets/anime-girl.gif" width="180">
+
+<br>
+
+`♡ currently wandering through code ♡`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 Things currently living in my brain
+# 🕹️ PLAYER PROFILE
 
 ```text
-             ┌──────────────────────┐
-             │       SHIVALEELA     │
-             └──────────┬───────────┘
-                        │
-          ┌─────────────┼─────────────┐
-          ↓             ↓             ↓
-        🤖 AI          🧩 DSA        💻 CS
-          │             │             │
-     ┌────┼────┐        │        ┌────┼────┐
-     ↓    ↓    ↓        ↓        ↓    ↓    ↓
-    ML   NLP  LLMs    Python    APIs DBs  Code
-          │
-          ↓
-     "what can I build?"
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│   PLAYER        Shivaleela                           │
+│   CLASS         Computer Science Student             │
+│   LEVEL         Learning...                          │
+│                                                      │
+│   ❤️ CURIOSITY   ████████████████████░░              │
+│   🧠 DSA         ████████████░░░░░░░░░              │
+│   🤖 AI          ██████████░░░░░░░░░░░              │
+│   🐍 PYTHON      █████████████░░░░░░░              │
+│                                                      │
+│   STATUS        ONLINE • LEARNING                    │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
 ```
 
 ---
 
 <p align="center">
-  <img src="./assets/anime-girl.gif" width="120">
-  &nbsp;&nbsp;&nbsp;
-  <i>walking toward the next bug...</i>
+  <img src="./assets/anime-girl.gif" width="130">
 </p>
 
 ---
 
-# 🛠️ My little tech shelf
+# 🗺️ CURRENT MAP
+
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+🌱<br><br>
+<b>LEARN</b><br>
+<sub>DSA • Python</sub>
+</td>
+
+<td align="center" width="25%">
+🧠<br><br>
+<b>EXPLORE</b><br>
+<sub>AI • ML • NLP</sub>
+</td>
+
+<td align="center" width="25%">
+🛠️<br><br>
+<b>BUILD</b><br>
+<sub>Projects • APIs</sub>
+</td>
+
+<td align="center" width="25%">
+🚀<br><br>
+<b>GROW</b><br>
+<sub>Hackathons • Open Source</sub>
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🤖 AI ROOM
+
+```text
+        ╭──────────────────────────────────╮
+        │          AI / ML LAB              │
+        │                                  │
+        │   🧠 Machine Learning             │
+        │   ✨ Generative AI                │
+        │   💬 NLP                          │
+        │   👁️ Computer Vision              │
+        │   🔮 LLM Applications             │
+        │                                  │
+        ╰──────────────────────────────────╯
+```
+
+### Things I'm curious about
+
+`Machine Learning` · `NLP` · `Computer Vision` · `Generative AI` · `LLMs`
+
+---
+
+# 💻 THE DESK
 
 ### Languages
 
@@ -78,158 +144,128 @@ I'm simply **learning → experimenting → breaking things → understanding �
 <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" />
 </p>
 
-### AI / Data
-
-`Machine Learning` · `NLP` · `Computer Vision` · `Generative AI` · `LLMs`
-
-`Pandas` · `NumPy` · `PySpark` · `Hadoop`
-
 ### Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=flask,nodejs,express,react,vite,streamlit" />
 </p>
 
-### Databases & Tools
+### Data & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,postman" />
 </p>
 
+`Pandas` · `NumPy` · `PySpark` · `Hadoop`
+
 ---
 
-## 🌱 My current quest
+<p align="center">
+  <img src="./assets/anime-girl.gif" width="120">
+  <br>
+  <sub>she found another bug...</sub>
+</p>
+
+---
+
+# 📊 SAVE FILE
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivaleela-a-ballary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0B16&title_color=E879F9&icon_color=A78BFA&text_color=E5E7EB&rank_icon=github" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaleela-a-ballary&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0B16&title_color=E879F9&text_color=E5E7EB" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shivaleela-a-ballary&theme=tokyonight&hide_border=true&background=0D0B16&ring=E879F9&fire=A78BFA&currStreakLabel=E879F9" />
+</p>
+
+---
+
+# 🌱 NEXT LEVEL
 
 ```text
-                         QUEST LOG
-              ───────────────────────────
-
-              [✓] Start learning DSA
-
-              [✓] Explore Python
-
-              [→] Understand Machine Learning
-
-              [ ] Go deeper into AI
-
-              [ ] Build cooler things
-
-              [ ] Contribute to Open Source
-
-              [ ] Become really good at what I do
-
-              ───────────────────────────
-                     STATUS: IN PROGRESS
+                 ┌─────────────────┐
+                 │    CURRENTLY    │
+                 │    LEARNING     │
+                 └────────┬────────┘
+                          │
+                          ▼
+                    🧩 DSA
+                          │
+                          ▼
+                    🐍 PYTHON
+                          │
+                          ▼
+                    🧠 ML / AI
+                          │
+                          ▼
+                    ✨ LLMs
+                          │
+                          ▼
+                    🚀 ??? 
 ```
 
----
+I don't know exactly where the path ends.
 
-<p align="center">
-  <img src="./assets/anime-girl.gif" width="135">
-</p>
+That's kind of the point.
 
 ---
 
-# 📊 A glimpse at my GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivaleela-a-ballary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=E85AAD&icon_color=9B87F5&text_color=C9C9D6" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaleela-a-ballary&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=E85AAD&text_color=C9C9D6" width="49%">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shivaleela-a-ballary&theme=tokyonight&hide_border=true&background=00000000&ring=E85AAD&fire=9B87F5&currStreakLabel=E85AAD" width="60%">
-</p>
-
----
-
-# 💭 Currently...
+# 💭 TERMINAL
 
 ```python
 class Shivaleela:
 
-    studying = "Computer Science"
+    role = "Computer Science Student"
 
-    exploring = [
+    interests = [
         "AI",
         "Machine Learning",
         "DSA",
         "Software Development"
     ]
 
-    status = "learning..."
+    current_mode = "Learning"
 
-    def next_step(self):
-        return "keep going 🌱"
+    def keep_going(self):
+        return "One step at a time ♡"
 ```
 
 ---
 
 <p align="center">
-  <img src="./assets/anime-girl.gif" width="145">
+  <img src="./assets/anime-girl.gif" width="150">
 </p>
 
 <p align="center">
-  <i>She has places to go. So do I.</i> 🌙
+  <b>🌸 Keep going. Something good is loading...</b>
 </p>
 
 ---
 
-# ✨ Things I want to build
-
-```text
-        ideas
-          ↓
-       curiosity
-          ↓
-       learning
-          ↓
-       late nights
-          ↓
-        coding
-          ↓
-      "IT WORKS!"
-          ↓
-      something useful
-```
-
-I want to build things that are **interesting, useful, and a little bit different**.
-
-Not just projects that sit in a folder.
-
----
-
-# 🌌 One day...
-
-I want to look back at this profile and see how much I've grown.
-
-For now, I'm just collecting:
-
-`knowledge` · `mistakes` · `projects` · `commits` · `ideas`
-
-and hopefully becoming a little better with each one.
-
----
+# 🔗 FIND ME
 
 <p align="center">
-  <img src="./assets/anime-girl.gif" width="125">
-</p>
 
-<p align="center">
-  <b>🌱 Still learning. Still curious. Still moving.</b>
+<a href="https://github.com/shivaleela-a-ballary">
+<img src="https://img.shields.io/badge/GITHUB-17121F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-6D4AFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
 <br>
 
 <p align="center">
-  <a href="https://github.com/shivaleela-a-ballary">
-    <img src="https://img.shields.io/badge/GitHub-17102B?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-5B3FA3?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
-  </a>
+  <i>♡ still exploring ♡</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:E85AAD,50:8B5CF6,100:17102B" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:8E3F83,50:34205E,100:100B20" />
 </p>
