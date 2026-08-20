@@ -143,15 +143,6 @@ I'm still learning, experimenting and figuring things out — one concept, one p
 
 ---
 
-# 📊 The GitHub Side of Me
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivaleela-a-ballary&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaleela-a-ballary&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
-</p>
-
----
-
 ## 🔥 Coding Streak
 
 <p align="center">
